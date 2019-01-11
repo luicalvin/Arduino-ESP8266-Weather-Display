@@ -6,8 +6,8 @@
 #include <time.h>
 #include<TimeLib.h>
 
-#define TFT_DC    D1
-#define TFT_RST   D0
+#define TFT_DC    D1    //These pins are for the Wemos D1R2, and are labelled as so on the board
+#define TFT_RST   D0    //These pins would be different if this was to be done on an Arduino board
 #define TFT_MOSI  D7   // for hardware SPI data pin (all of available pins)
 #define TFT_SCLK  D5   // for hardware SPI sclk pin (all of available pins)
 
