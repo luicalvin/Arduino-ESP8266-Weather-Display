@@ -11,3 +11,9 @@ Possible changes:
     • More custom text for the display (different colors, proper spacing)
     • Need to fix the loop issue where the new data isn’t updated by itself, but needs the device to be reset first. 
 
+Hardware Used:
+
+Display - High Definition 1.3 Inch IPS TFT Display IPS LCD Screen 1.3 inch 3.3V ST7789 IPS Display Screen: 
+https://www.aliexpress.com/item/High-Definition-1-3-Inch-IPS-TFT-Display-IPS-LCD-Screen-1-3-inch-3-3V/32861867084.html?spm=2114.search0104.3.16.7fac4153LLbAhY&ws_ab_test=searchweb0_0,searchweb201602_3_10065_10130_10068_10547_319_317_10548_10696_453_10084_454_10083_10618_10139_10307_537_536_328_10059_10884_10887_100031_321_322_10103,searchweb201603_55,ppcSwitch_0&algo_expid=6f6e19dd-8080-4b07-a788-89973df07fb3-2&algo_pvid=6f6e19dd-8080-4b07-a788-89973df07fb3
+
+Arduino: Wemos D1 R2
